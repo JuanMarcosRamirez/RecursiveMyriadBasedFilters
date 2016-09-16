@@ -9,5 +9,5 @@ This paper proposes two new recursive filtering structures based on the nonlinea
 
 ## License and Referencing
 
-This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
+This code package is licensed under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
 
