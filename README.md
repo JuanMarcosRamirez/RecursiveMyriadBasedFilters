@@ -22,3 +22,10 @@ This paper proposes two new recursive filtering structures based on the nonlinea
 
 This code package is licensed under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
 
+## Author
+
+Juan Marcos Ramirez Rondon. Universidad de Los Andes. Merida, 5101, Venezuela. email: juanra@ula.ve or juanmarcos26@gmail.com
+
+## Date
+
+September 14, 2016
