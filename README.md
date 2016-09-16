@@ -9,7 +9,7 @@ This paper proposes two new recursive filtering structures based on the nonlinea
 
 ## Running the Simulations
 
-Markup: * FigTrainingBehavior.m generates Figure 4
+	* FigTrainingBehavior.m generates Figure 4
 	* FigComputationalCost.m generates Figure 4(f)
 	* FigCleanChirpFiltering.m generates Figure 5
 	* FigNoisyChirpFiltering.m generates Figure 6
