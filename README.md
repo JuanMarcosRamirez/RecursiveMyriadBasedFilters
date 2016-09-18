@@ -1,4 +1,4 @@
-# Recursive Weighted Myriad Based Filters and their Optimizations (http://ieeexplore.ieee.org/document/7457715/)
+# [Recursive Weighted Myriad Based Filters and their Optimizations](http://ieeexplore.ieee.org/document/7457715/)
 
 Juan Marcos Ramirez(juanra@ula.ve) and Jose Luis Paredes(paredesj@ula.ve)
 
