@@ -59,7 +59,7 @@ This code package is licensed under the GNU GENERAL PUBLIC LICENSE (version 3) -
 
 ## Author
 
-Juan Marcos Ramírez Rondón. Escuela de Eléctrica. Universidad de Los Andes[www.ula.ve]. Mérida, 5101, Venezuela. email: juanra@ula.ve or juanmarcos26@gmail.com
+Juan Marcos Ramírez Rondón. Escuela de Eléctrica. [Universidad de Los Andes](www.ula.ve). Mérida, 5101, Venezuela. email: juanra@ula.ve or juanmarcos26@gmail.com
 
 ## Date
 
