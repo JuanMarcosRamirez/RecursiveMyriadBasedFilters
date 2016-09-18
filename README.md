@@ -11,13 +11,16 @@ This paper proposes two new recursive filtering structures based on the nonlinea
 
 ### How to run the code
 
-Download and uncompress the `<RecursiveMyriadBasedFilters>` folder. To generate Figures and Tables in the paper, under MATLAB environment, navigate to the RecursiveMyriadBasedFilters folder and follow the instructions described below
+Download and uncompress the `RecursiveMyriadBasedFilters` folder. To generate Figures and Tables in the paper, under **MATLAB** environment, navigate to the `RecursiveMyriadBasedFilters` folder and follow the instructions described below
 
 #### Figure 4
 
-Under a Matlab environment run the following routines
+To generate Figures 4(a)-4(e) run, in MATLAB, 
 
-	* FigTrainingBehavior.m generates Figure 4
+	>> FigTrainingBehavior.m
+
+To generate Figures 4(a)-4(e) run, in MATLAB, 
+
 	* FigComputationalCost.m generates Figure 4(f)
 	* FigCleanChirpFiltering.m generates Figure 5
 	* FigNoisyChirpFiltering.m generates Figure 6
