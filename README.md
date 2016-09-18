@@ -1,6 +1,6 @@
 # [Recursive Weighted Myriad Based Filters and Their Optimizations](http://ieeexplore.ieee.org/document/7457715/)
 
-[Juan Marcos Ramirez](juanra@ula.ve) and [Jose Luis Paredes](paredesj@ula.ve)
+[Juan Marcos Ramirez](juanra@ula.ve) and [Jose Luis Paredes](https://www.eecis.udel.edu/~paredesj/publications.html)
 
 IEEE Transactions on Signal Processing
 
