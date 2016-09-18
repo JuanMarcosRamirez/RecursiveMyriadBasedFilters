@@ -11,6 +11,7 @@ This paper proposes two new recursive filtering structures based on the nonlinea
 
 ### How to run the code
 
+Download and uncompress the RecursiveMyriadBased folder. 
 
 Under a Matlab environment run the following routines
 
