@@ -47,18 +47,19 @@ To generate Figures 4(f) run
 
 	>> FigPLCMetrics.m
 
+### Platform
+
+* Scientific Fedora 21 Operating System, MATLAB R2013a
+
 
 ## License and Referencing
 
-This code package is licensed under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
-
-## Reference
-J.M. Ramírez and J.L. Paredes "Recursive Weighted Myriad Based Filters and their Optimizations" *IEEE Transactions on Signal Processing*, vol. 64, No. 15, pp. 4027 - 4039, 2016.
+This code package is licensed under the GNU GENERAL PUBLIC LICENSE (version 3) - see the [LICENSE](LICENSE) file for details
 
 
 ## Author
 
-Juan Marcos Ramirez Rondon. Universidad de Los Andes. Merida, 5101, Venezuela. email: juanra@ula.ve or juanmarcos26@gmail.com
+Juan Marcos Ramírez Rondón. Escuela de Eléctrica. Universidad de Los Andes. Mérida, 5101, Venezuela. email: juanra@ula.ve or juanmarcos26@gmail.com
 
 ## Date
 
