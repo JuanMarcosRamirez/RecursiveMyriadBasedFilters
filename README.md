@@ -19,15 +19,34 @@ To generate Figures 4(a)-4(e) run, in MATLAB,
 
 	>> FigTrainingBehavior.m
 
-To generate Figures 4(a)-4(e) run, in MATLAB, 
+To generate Figures 4(f) run 
 
-	* FigComputationalCost.m generates Figure 4(f)
-	* FigCleanChirpFiltering.m generates Figure 5
-	* FigNoisyChirpFiltering.m generates Figure 6
-	* TableNoisyChirp.m generates Table I
-	* TableImageDenoising.m generates Table II
-	* FigPLCSignals.m generates Figure 8
-	* FigPLCMetrics.m generates Figure 9
+	>> FigComputationalCost.m
+
+#### Figure 5
+
+	>> FigCleanChirpFiltering.m
+
+#### Figure 6
+
+	>> FigNoisyChirpFiltering.m
+
+#### Table I
+
+	>> TableNoisyChirp.m
+
+#### Table II
+
+	>> TableImageDenoising.m
+
+#### Figure 8
+
+	>> FigPLCSignals.m 
+
+#### Figure 9
+
+	>> FigPLCMetrics.m
+
 
 ## License and Referencing
 
