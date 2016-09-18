@@ -52,7 +52,7 @@ To generate Figures 4(f) run
 * Scientific Fedora 21 Operating System, MATLAB R2013a
 
 
-## License and Referencing
+## License
 
 This code package is licensed under the GNU GENERAL PUBLIC LICENSE (version 3) - see the [LICENSE](LICENSE) file for details
 
