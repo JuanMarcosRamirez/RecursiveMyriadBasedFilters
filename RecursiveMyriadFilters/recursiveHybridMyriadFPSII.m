@@ -27,9 +27,10 @@ function [beta] = recursiveHybridMyriadFPSII(X,Y,g,h,K)
 %   September, 2016
 %
 %   Copyright 2016 Juan Marcos Ramirez Rondon.  [juanmarcos26-at-gmail.com]
+%   Licensed under the Simplified BSD License [see BSD-2.txt]
 
 
-Beta = [X Y]; 
+Beta = [X mean(h.*Y)]; 
 
 X = sign(g).*X;
 Y = sign(h).*Y;
@@ -37,7 +38,7 @@ g = abs(g);
 h = abs(h);
 
 N = length(X);
-M = length(Y); T = N+M;
+T = N+1;
 k1 = K^2./g; 
 
 Costo = zeros(1,T); 
